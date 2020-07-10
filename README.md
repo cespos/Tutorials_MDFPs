@@ -13,3 +13,5 @@ Tutorial 3:
 
 Tutorial 4:
 1. Build Protein-Ligand MDFPs
+
+WARNING: Trajectory files for ex2 and ex4 are so far not provided due to memory limitations!!!
